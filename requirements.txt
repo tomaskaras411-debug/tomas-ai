@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+yfinance
+pandas
+numpy
+pandas_ta
+scikit-learn
+joblib
+plotly
+sqlite3-binary
